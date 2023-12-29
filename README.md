@@ -40,15 +40,26 @@
     </div>
 </div>
 <br>
-<div align="center" width="50px">
+<div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
     <li>2022-11-21 ~ 현재 (주)예스오예스 개발팀<br>
-    1. 프로젝트명 : 자사 CRM 유지 및 보수<br>
+    1. 자사 CRM 유지 및 보수<br>
     - 주요 업무 : 자사 CRM, ERP 유지 및 보수<br>
     - 담당 역할 : 고객사 요청 업데이트 및 버그 개선<br>
     - 개발 환경  : Window IIS, MS-SQL<br>
     - 진행 기간 : 2022년/11월/21일 ~ <br>
-    - 상세 내용 : 고객사 요청의 프로그램 개선 사항 업데이트 및 버그 발생 시 수정 조치<br>
+    - 상세 내용 : 고객사 요청의 프로그램 개선 사항 업데이트<br> 버그 발생 시 수정 조치<br>
+    2. 고객사 요청 DB 처리<br>
+    - 주요 업무 : MS-SQL 기반 데이터 처리<br>
+    - 담당 역할 : 타사 CRM 데이터 이전 처리 작업<br>
+    - 개발 환경  : MS-SQL<br>
+    - 진행 기간 : 2022년/11월/21일 ~<br>
+    - 상세 내용 : 타사 CRM 이용 고객이 당사로 이전 시 <br>기존 타사의 데이터를 당사 DB에 입력하여<br>고객이 이용할 수 있도록 데이터 처리 작업.
+    3. Youtube API를 이용한 프라이빗 플레이리스트 구현<br>
+    - 주요 업무 : 전체 기능 구현<br>
+    - 담당 역할 : API 분석 및 JSON 데이터 처리, 자사 웹 페이지에 적용<br>
+    - 개발 환경  : MS-SQL, Java Script, Classic ASP<br>
+    - 상세 내용 : Youtube API를 이용하여 미용업 관련 <br>Youtube 채널 및 플레이리스트를 자사 CRM 내부 인트라넷에 노출시켜<br> 고객사들에게 미용 관련 컨텐츠 제공
     </li>
 </div>
 <br>
