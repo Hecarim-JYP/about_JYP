@@ -1,7 +1,7 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Welcome%20to%20Hecarim's&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
-
+<br>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 저를 소개합니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
@@ -9,7 +9,7 @@
         <li> 모르는 것에 대해 늘 궁금하고 탐구하고 싶은 마음이 가득합니다. 
     </div> 
 </div>
-
+<br>
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 사용 기술 </h2>
     <br> 
@@ -29,12 +29,12 @@
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
     </div>
 </div>
-
+<br>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
     <li>2022-11-21 ~ 현재 (주)예스오예스 개발팀</li>
 </div>
-
+<br>
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락처 </h2>
     <br> 
@@ -47,7 +47,7 @@
     <div align= "center">
     </div> 
 </div>
-
+<br>
 <div align="center">    
     <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" />    
 </div>
