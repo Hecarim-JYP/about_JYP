@@ -43,6 +43,12 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
     <li>2022-11-21 ~ 현재 (주)예스오예스 개발팀</li>
+    <li>1. 프로젝트명 : 자사 CRM 유지 및 보수
+    - 주요 업무 : 자사 CRM, ERP 유지 및 보수
+    - 담당 역할 : 고객사 요청 업데이트 및 버그 개선
+    - 개발 환경  : Window IIS, MS-SQL
+    - 진행 기간 : 2022년/11월/21일 ~ 
+    - 상세 내용 : 고객사 요청의 프로그램 개선 사항 업데이트 및 버그 발생 시 수정 조치</li>
 </div>
 <br>
 <div align= "center">
