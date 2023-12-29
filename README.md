@@ -24,6 +24,6 @@
     <div align= "center">  </div> 
     </div>
 
-<div aling="center">    
+<div align="center">    
     <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" />    
 </div>
