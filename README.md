@@ -17,7 +17,7 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">ㅁㄴㅇ
         <br><br>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -33,16 +33,6 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
     <li>2022-11-21 ~ 현재 (주)예스오예스 개발팀</li>
-</div>
-
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥 활동 </h2>
-    <li>2022-05 ~ 2022-11 글로벌아이티인재개발원 교육 수료</li>
-</div>
-
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  활동 </h2>
-    <li>2022-05 ~ 2022-11 글로벌아이티인재개발원 교육 수료</li>
 </div>
 
 <div align= "center">
