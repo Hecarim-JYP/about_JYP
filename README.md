@@ -40,7 +40,7 @@
     </div>
 </div>
 <br>
-<div align="center" width="200px">
+<div align="center" width="50px">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
     <li>2022-11-21 ~ 현재 (주)예스오예스 개발팀<br>
     1. 프로젝트명 : 자사 CRM 유지 및 보수<br>
