@@ -30,6 +30,21 @@
     </div>
 </div>
 
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
+    <li>2022-11-21 ~ 현재 (주)예스오예스 개발팀</li>
+</div>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥 활동 </h2>
+    <li>2022-05 ~ 2022-11 글로벌아이티인재개발원 교육 수료</li>
+</div>
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  활동 </h2>
+    <li>2022-05 ~ 2022-11 글로벌아이티인재개발원 교육 수료</li>
+</div>
+
 <div align= "center">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락처 </h2>
     <br> 
