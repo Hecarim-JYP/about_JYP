@@ -23,5 +23,7 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
-![footer](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
+
+<div aling="center">    
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer" />    
+</div>
