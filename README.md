@@ -46,7 +46,7 @@
     1. 자사 CRM 유지 및 보수<br>
     - 주요 업무 : 자사 CRM, ERP 유지 및 보수<br>
     - 담당 역할 : 고객사 요청 업데이트 및 버그 개선<br>
-    - 개발 환경  : Window IIS, MS-SQL<br>
+    - 개발 환경  : Window IIS, MS-SQL, Java Script, Classic ASP<br>
     - 진행 기간 : 2022년/11월/21일 ~ <br>
     - 상세 내용 : 고객사 요청의 프로그램 개선 사항 업데이트<br> 버그 발생 시 수정 조치<br><br>
     2. 고객사 요청 DB 처리<br>
