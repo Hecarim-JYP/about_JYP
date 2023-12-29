@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hecarim's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-![About JYP]
+![안녕하세요! ]
+![세상을 긍정적으로 바라보는 호기심 많은 개발자 박진영입니다.]
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
