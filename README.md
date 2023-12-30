@@ -5,7 +5,7 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋🏻‍♂️ 저를 소개합니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        <li> 세상을 늘 긍정적인 마음으로 바라보며, 열정 가득한 개발자 박진영입니다.</li>
+        <li> 늘 긍정적인 마음으로 에너지 가득찬 개발자 박진영입니다.</li>
         <li> 모르는 것에 대해 늘 궁금하고 탐구하고 싶은 마음이 가득합니다. </li>
     </div> 
 </div>
