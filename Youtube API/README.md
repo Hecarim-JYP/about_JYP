@@ -9,7 +9,7 @@
 <br>
 <br>
 <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏  구현 및 설계 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔨 구현 및 설계 ⚙ </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li> 미리 미용 관련 키워드로 컨텐츠와 크리에이터들을 검색하여 정보들을 DB에 저장. </li>
         <li> DB에 저장된 데이터를 기반으로 크리에이터 리스트, 플레이리스트를 만들어 CRM 내부 페이지에 노출. </li>
