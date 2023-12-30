@@ -6,7 +6,8 @@
         <li> 이러한 사용자의 불편을 해소하고자 Youtube API를 이용하여 분리된 Youtube 환경을 구현해 일상과 업무를 분리하여 보다 개인의 편리함을 만족시키고자 함. </li>
     </div> 
 </div>
-
+<br>
+<br>
 <div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏  작업내용 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
@@ -15,10 +16,10 @@
         <li> 사용자는 미용 관련 컨텐츠를 구독, 보관 및 시청. </li>
     </div> 
 </div>
-
+<br>
+<br>
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 사용 기술 </h2>
-    <br> 
     <div style="margin: 0 auto; text-align: left;" align= "left">
         <li>Classic ASP, Java Script, MSSQL, jQuery, Ajax, JSON, VBS</li>
     </div>
