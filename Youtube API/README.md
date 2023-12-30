@@ -19,7 +19,7 @@
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 사용 기술 </h2>
     <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center">
+    <div style="margin: 0 auto; text-align: left;" align= "left">
         <li>Classic ASP, Java Script, MSSQL, jQuery, Ajax, JSON, VBS</li>
     </div>
 </div>
