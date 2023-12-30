@@ -1,4 +1,4 @@
-<div align= "center"> 
+<div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕵🏻‍♂️ 기획의도 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li> 사용자의 Youtube 추천리스트와 플레이리스트는 대개 알고리즘으로 인해 그 사람의 취향, 성향, 검색기록 등 개인적인 내용에 기반해 만들어지게 된다. </li>
@@ -7,7 +7,7 @@
     </div> 
 </div>
 
-<div align= "center"> 
+<div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕵🏻‍♂️ 작업내용 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li> 미리 미용 관련 키워드로 컨텐츠와 크리에이터들을 검색하여 정보들을 DB에 저장. </li>
@@ -16,7 +16,7 @@
     </div> 
 </div>
 
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 사용 기술 </h2>
     <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
