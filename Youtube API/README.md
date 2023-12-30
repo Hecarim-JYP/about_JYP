@@ -1,5 +1,5 @@
 <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕵🏻‍♂️ 기획의도 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✍🏻 기획의도 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li> 사용자의 Youtube 추천리스트와 플레이리스트는 대개 알고리즘으로 인해 그 사람의 취향, 성향, 검색기록 등 개인적인 내용에 기반해 만들어지게 된다. </li>
         <li> 하지만 업무에 관련된 컨텐츠 시청, 검색 등을 하게 되는 경우에는 온전한 자신만의 영역을 지킬 수 없게 되는 상황이 일어날 수 있다. </li>
@@ -8,7 +8,7 @@
 </div>
 
 <div align= "left"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕵🏻‍♂️ 작업내용 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✏  작업내용 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li> 미리 미용 관련 키워드로 컨텐츠와 크리에이터들을 검색하여 정보들을 DB에 저장. </li>
         <li> DB에 저장된 데이터를 기반으로 크리에이터 리스트, 플레이리스트를 만들어 CRM 내부 페이지에 노출. </li>
