@@ -26,21 +26,20 @@
 <br>
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📃 자료 화면 </h2>
-    <br>
     <h2> 설문 시작 </h2>
-    <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
+    <div style="margin: 0 auto; text-align: left; color: #282d33;" align= "left">
         <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%8C%80%EC%83%81%20%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC/Welcome.png"/>                        
     </div>
     <h2> 진행 </h2>
-    <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
+    <div style="margin: 0 auto; text-align: left; color: #282d33;" align= "left">
         <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%8C%80%EC%83%81%20%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC/Answer.png"/>                        
     </div>
     <h2> 설문 종료 </h2>
-    <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
+    <div style="margin: 0 auto; text-align: left; color: #282d33;" align= "left">
         <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%8C%80%EC%83%81%20%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC/End.png"/>
     </div>
     <h2> 결과 </h2>
-    <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
+    <div style="margin: 0 auto; text-align: left; color: #282d33;" align= "left">
         <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EB%8C%80%EC%83%81%20%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC/Result.png"/>
     </div>    
 </div>
