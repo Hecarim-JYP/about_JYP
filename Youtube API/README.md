@@ -33,11 +33,11 @@
     <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
         <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/Main.png"/>                        
     </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 보관함 </h2>
+    <h2> 보관함 </h2>
     <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
         <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/Content.png"/>                        
     </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 동영상 </h2>
+    <h2> 동영상 </h2>
     <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
         <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/View.png"/>
     </div>
