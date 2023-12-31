@@ -57,7 +57,7 @@
     - 주요 업무 : 전체 기능 구현<br>
     - 담당 역할 : DB설계 및 생성, API 분석 및 JSON 데이터 처리 구현, 페이지 구축<br>
     - 개발 환경 : MS-SQL, Java Script, Classic ASP<br>
-    - 상세 내용 : Youtube API를 이용하여 미용업 관련 <br>Youtube 채널 및 플레이리스트를 자사 CRM 내부 인트라넷에 노출시켜<br> 고객사들에게 미용 관련 컨텐츠 제공<br>
+    - 상세 내용 : Youtube API를 이용하여 미용업 관련 <br>Youtube 채널 및 플레이리스트를 자사 CRM 내부 인트라넷에 노출시켜<br> 고객사들에게 미용 관련 컨텐츠 제공<br><br>
     4. 사용자 대상 설문 조사<br>
     - 주요 업무 : 전체 기능 구현<br>
     - 담당 역할 : DB설계 및 생성, API 구현 및 페이지 구축<br>
