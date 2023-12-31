@@ -28,23 +28,17 @@
 <br>
 <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📃 자료 화면 </h2>
-    <br><br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 메인화면 </h2>
+    <br>
+    <h2> 메인화면 </h2>
     <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
-        <li style="border-bottom:1px solid #d8dee4;">
-            <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/Main.png"/>                        
-        </li>
+        <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/Main.png"/>                        
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 보관함 </h2>
     <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
-        <li style="border-bottom:1px solid #d8dee4;">
-            <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/Content.png"/>                        
-        </li>
+        <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/Content.png"/>                        
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 동영상 </h2>
     <div style="margin: 0 auto; text-align: left; border-bottom: 1px solid #d8dee4; color: #282d33;" align= "left">
-        <li style="border-bottom:1px solid #d8dee4;">
-            <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/View.png"/>                        
-        </li>
+        <img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/View.png"/>
     </div>
 </div>
