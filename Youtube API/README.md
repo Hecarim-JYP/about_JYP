@@ -24,3 +24,11 @@
         <li>Classic ASP, Java Script, MSSQL, jQuery, Ajax, JSON, VBS</li>
     </div>
 </div>
+<br>
+<br>
+<div align= "left">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 사용 기술 </h2>
+    <div style="margin: 0 auto; text-align: left;" align= "left">
+        <li><img src="https://github.com/Hecarim-JYP/about_JYP/blob/main/Youtube%20API/View.png"/></li>
+    </div>
+</div>
