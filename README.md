@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Welcome%20to%20Hecarim's&animation=fadeIn&fontColor=000000&fontSize=50" />
 </div>
 <br>
-<div align= "center"> 
+<div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋🏻‍♂️ 저를 소개합니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li align="left"> 늘 긍정적인 마음으로 에너지 가득찬 개발자 박진영입니다.</li>
@@ -10,17 +10,17 @@
     </div> 
 </div>
 <br>
-<div align= "center"> 
+<div align= "left"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕵🏻‍♂️ 신상정보 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        <li align="left"> 이름 : 박진영 </li>
-        <li align="left"> 나이 / 성별 : 1993년생 / 남자 </li>
-        <li align="left"> MBTI : ENFP </li>
-        <li align="left"> 취미 : 헬스, 클라이밍, 외향적인 활동, 노래부르기 </li>
+        <li> 이름 : 박진영 </li>
+        <li> 나이 / 성별 : 1993년생 / 남자 </li>
+        <li> MBTI : ENFP </li>
+        <li> 취미 : 헬스, 클라이밍, 외향적인 활동, 노래부르기 </li>
     </div> 
 </div>
 <br>
-<div align= "center">
+<div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 사용 기술 </h2>
     <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
@@ -40,7 +40,7 @@
     </div>
 </div>
 <br>
-<div align="center">
+<div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
     <li align="left">2022-11-21 ~ 현재 (주)예스오예스 개발팀<br><br>
     1. 자사 CRM 유지 및 보수<br>
@@ -66,7 +66,7 @@
     </li>
 </div>
 <br>
-<div align= "center">
+<div align= "left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락처 </h2>
     <br> 
     <div align= "center">
@@ -75,8 +75,6 @@
         </a>
     </div>
     <br> 
-    <div align= "center">
-    </div> 
 </div>
 <br>
 <div align="center">    
