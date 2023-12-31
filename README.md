@@ -5,18 +5,18 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋🏻‍♂️ 저를 소개합니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        <li> 늘 긍정적인 마음으로 에너지 가득찬 개발자 박진영입니다.</li>
-        <li> 모르는 것에 대해 늘 궁금하고 탐구하고 싶은 마음이 가득합니다. </li>
+        <li align="left"> 늘 긍정적인 마음으로 에너지 가득찬 개발자 박진영입니다.</li>
+        <li align="left"> 모르는 것에 대해 늘 궁금하고 탐구하고 싶은 마음이 가득합니다. </li>
     </div> 
 </div>
 <br>
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🕵🏻‍♂️ 신상정보 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        <li> 이름 : 박진영 </li>
-        <li> 나이 / 성별 : 1993년생 / 남자 </li>
-        <li> MBTI : ENFP </li>
-        <li> 취미 : 헬스, 클라이밍, 외향적인 활동, 노래부르기 </li>
+        <li align="left"> 이름 : 박진영 </li>
+        <li align="left"> 나이 / 성별 : 1993년생 / 남자 </li>
+        <li align="left"> MBTI : ENFP </li>
+        <li align="left"> 취미 : 헬스, 클라이밍, 외향적인 활동, 노래부르기 </li>
     </div> 
 </div>
 <br>
