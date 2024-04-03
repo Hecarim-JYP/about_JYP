@@ -42,7 +42,7 @@
 <br>
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
-    <li align="left">2022-11-21 ~ 현재 (주)예스오예스 개발팀<br><br>
+    <li align="left">2022-11 ~ 2024-01 (주)예스오예스 개발팀<br><br>
     1. 자사 CRM 유지 및 보수<br>
     - 주요 업무 : 자사 CRM, ERP 유지 및 보수<br>
     - 담당 역할 : 고객사 요청 업데이트 및 버그 개선<br>
