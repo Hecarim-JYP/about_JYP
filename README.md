@@ -48,8 +48,8 @@
     1. DEMIS 프로젝트(국방의료정보체계 성능개선) 참여<br>
     - 주요 업무 : 간접진료 부서 신체검사 파트 기능 개발<br>
     - 담당 역할 : DB설계 및 생성, API 구현 및 페이지 구현<br>
-    - 개발 환경 : WebSquare, Java Script, Spring, Mybatis, Oracle<br>
-    - 상세 내용 : 간접진료 부서 신체검사 파트 신체검사 판정, 조회 및 통계, 예약스케줄관리 등 기능 개발<br><br>
+    - 개발 환경 : WebSquare, Java, Java Script, Spring, Mybatis, Oracle<br>
+    - 상세 내용 : 간접진료 부서 신체검사 파트 신체검사 판정, 조회 및 통계, 예약스케줄관리 등 기능 개발<br><br><br>
     </li>
     <li align="left">2022-11 ~ 2024-01 (주)예스오예스 개발팀<br><br>
     1. 자사 CRM 기능 개발<br>
