@@ -35,6 +35,7 @@
         <img src="https://img.shields.io/badge/asp-181717?style=for-the-badge&logo=asp&logoColor=white">
         <br><br>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+        <img src="https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=Oracle&logoColor=white">
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
         <br><br>
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
@@ -43,6 +44,13 @@
 <br>
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
+    <li align="left">2024-04 ~ (주)와이즈테크놀로지<br><br>
+    1. DEMIS 프로젝트(국방의료정보체계 성능개선) 참여
+    - 주요 업무 : 간접진료 부서 신체검사 파트 기능 개발<br>
+    - 담당 역할 : DB설계 및 생성, API 구현 및 페이지 구현<br>
+    - 개발 환경 : WebSquare, Java Script, Spring, Mybatis, Oracle<br>
+    - 상세 내용 : 간접진료 부서 신체검사 파트 신체검사 판정, 조회 및 통계, 예약스케줄관리 등 기능 개발<br><br><br>
+    </li>
     <li align="left">2022-11 ~ 2024-01 (주)예스오예스 개발팀<br><br>
     1. 자사 CRM 기능 개발<br>
     - 주요 업무 : 자사 CRM 기능 개발<br>
@@ -64,13 +72,6 @@
     - 담당 역할 : DB설계 및 생성, API 구현 및 페이지 구축<br>
     - 개발 환경 : MS-SQL, Java Script, Classic ASP<br>
     - 상세 내용 : 가입자를 대상으로 자사 CRM에 대한 만족도 및 의견 조사를 위해 설문 조사 페이지를 구현하여 다양한 의견 수렴 가능.<br>        
-    </li>
-    <li align="left">2024-04 ~ (주)와이즈테크놀로지<br><br>
-    1. DEMIS 프로젝트(국방의료정보체계 성능개선) 참여
-    - 주요 업무 : 간접진료 부서 신체검사 파트 기능 개발<br>
-    - 담당 역할 : DB설계 및 생성, API 구현 및 페이지 구현<br>
-    - 개발 환경 : WebSquare, Java Script, Spring, Mybatis, Oracle<br>
-    - 상세 내용 : 간접진료 부서 신체검사 파트 신체검사 판정, 조회 및 통계, 예약스케줄관리 등 기능 개발<br>
     </li>
 </div>
 <br>
