@@ -15,8 +15,9 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         <li> 이름 : 박진영 </li>
         <li> 나이 / 성별 : 1993년생 / 남자 </li>
-        <li> MBTI : ENFP </li>
+        <li> MBTI : ENFP or ENTJ </li>
         <li> 취미 : 헬스, 클라이밍, 걷기 + 가벼운 런닝, 운동 등 외향적인 활동, 노래부르기 </li>
+        <li> 자격증 : SQLD </li>
     </div> 
 </div>
 <br>
@@ -43,11 +44,11 @@
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👔 경력 </h2>
     <li align="left">2022-11 ~ 2024-01 (주)예스오예스 개발팀<br><br>
-    1. 자사 CRM 유지 및 보수<br>
-    - 주요 업무 : 자사 CRM, ERP 유지 및 보수<br>
-    - 담당 역할 : 고객사 요청 업데이트 및 버그 개선<br>
+    1. 자사 CRM 기능 개발<br>
+    - 주요 업무 : 자사 CRM 기능 개발<br>
+    - 담당 역할 : 고객사 요청 업데이트 및 버그 개선, 신규 기능 개발<br>
     - 개발 환경  : Window IIS, MS-SQL, Java Script, Classic ASP<br>
-    - 상세 내용 : 고객사 요청의 프로그램 개선 사항 업데이트 버그 발생 시 수정 조치<br><br>
+    - 상세 내용 : 고객사 요청의 프로그램 개선 사항 업데이트, 개발. 버그 발생 시 수정 조치<br><br>
     2. 고객사 요청 DB 처리<br>
     - 주요 업무 : MS-SQL 기반 데이터 처리<br>
     - 담당 역할 : 타사 CRM 데이터 자사DB로 이전 처리 작업 및 자사 고객 요청 DB 처리<br>
@@ -63,6 +64,14 @@
     - 담당 역할 : DB설계 및 생성, API 구현 및 페이지 구축<br>
     - 개발 환경 : MS-SQL, Java Script, Classic ASP<br>
     - 상세 내용 : 가입자를 대상으로 자사 CRM에 대한 만족도 및 의견 조사를 위해 설문 조사 페이지를 구현하여 다양한 의견 수렴 가능.<br>        
+    </li>
+
+    <li align="left">2024-04 ~ (주)와이즈테크놀로지<br><br>
+    1. DEMIS 프로젝트(국방의료정보체계 성능개선) 참여
+    - 주요 업무 : 간접진료 부서 신체검사 파트 기능 개발<br>
+    - 담당 역할 : DB설계 및 생성, API 구현 및 페이지 구현<br>
+    - 개발 환경 : WebSquare, Java Script, Spring, Mybatis, Oracle<br>
+    - 상세 내용 : 간접진료 부서 신체검사 파트 신체검사 판정, 조회 및 통계, 예약스케줄관리 등 기능 개발<br>
     </li>
 </div>
 <br>
